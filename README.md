@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Nate
 - 👀 I’m interested in being the best at whatever I do
-- 🌱 I’m currently learning ... SonrQube
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... SonaQube
+- 💞️ I’m looking to collaborate on ... Sapphire squad on some team projects
 - 📫 How to reach me ... via text or email
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... I play musical instrument
 
 <!---
